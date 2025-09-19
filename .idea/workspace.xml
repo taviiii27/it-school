@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="828e52b9-565f-42a1-af08-0dd051389092" name="Changes" comment="&quot;homework from previous weeks&quot;" />
+    <list default="true" id="828e52b9-565f-42a1-af08-0dd051389092" name="Changes" comment="&quot;homework from previous weeks&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.package.session11/homework-8.09.2025/BinaryToDecimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.package.session11/homework-8.09.2025/ChristmasWishlist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.package.session11/homework-8.09.2025/CityListManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.package.session11/homework-8.09.2025/EvenOddCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.package.session11/homework-8.09.2025/FruitSorter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.package.session11/homework-8.09.2025/GraduateStudentList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.package.session11/homework-8.09.2025/LinkedListStudentManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.package.session11/homework-8.09.2025/MovieSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.package.session11/homework-8.09.2025/PersonalDiary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.package.session11/homework-8.09.2025/ShoppingListArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.package.session13.14/homework-17.09.2025/BankingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.package.session13.14/homework-17.09.2025/CollegeManagementSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.package.session13.14/homework-17.09.2025/FitnessTrackingSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.package.session13.14/homework-17.09.2025/SchoolGradebook.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +49,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,7 +80,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/petru/.jdks/temurin-21.0.8/bin/it-school"
@@ -72,6 +88,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\petru\.jdks\temurin-21.0.8\bin\it-school\src" />
       <recent name="C:\Users\petru\.jdks\temurin-21.0.8\bin\it-school\src\com.package.session13.14" />
       <recent name="C:\Users\petru\.jdks\temurin-21.0.8\bin\it-school\src\com.package.session11" />
       <recent name="C:\Users\petru\.jdks\temurin-21.0.8\bin\it-school\src\com.package.session10" />
@@ -94,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758311601715</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;homework from previous weeks&quot;">
+      <option name="closed" value="true" />
+      <created>1758312836751</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758312836751</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
