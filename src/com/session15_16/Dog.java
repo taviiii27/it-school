@@ -1,4 +1,4 @@
-package session15_16;
+package com.session15_16;
 
 public class Dog extends Animal {
     @Override

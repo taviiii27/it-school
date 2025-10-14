@@ -1,4 +1,4 @@
-package session15_16;
+package com.session15_16;
 
 public class Bicycle {
     int speed;
@@ -23,7 +23,7 @@ public class Bicycle {
 
     public void applyBrake(int decrement) {
         speed -= decrement;
-        if(speed < 0) speed = 0;
+        if (speed < 0) speed = 0;
         System.out.println("Speed decreased to: " + speed);
     }
 }

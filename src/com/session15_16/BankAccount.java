@@ -1,12 +1,12 @@
-package session15_16;
+package com.session15_16;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class BankAccount {
 
     private static final AtomicInteger accountCounter = new AtomicInteger(1000);
-    private String accountHolderName;
     private final int accountNumber;
+    private String accountHolderName;
     private double balance;
 
 
