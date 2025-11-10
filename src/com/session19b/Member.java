@@ -42,7 +42,6 @@ public class Member {
     }
 
     public boolean hasOverdueBooks() {
-        // Simplified for this version
         return false;
     }
 

@@ -42,7 +42,7 @@ public class Customer {
     }
 
     public void viewOrderHistory() {
-        System.out.println("\nOrder History for " + name + ":");
+        System.out.println("Order History for " + name + ":");
         for (Order o : orders) {
             o.displayOrderInfo();
         }
