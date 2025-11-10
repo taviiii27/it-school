@@ -23,8 +23,11 @@ public class Library {
 
     public void displayAllBooks() {
         System.out.println("\nLibrary Books:");
-        for (Book b : books) b.displayBookInfo();
+        for (Book b : books) {
+            b.displayBookInfo();
+        }
     }
+
 
     public Book searchBookByTitle(String title) {
         for (Book b : books)

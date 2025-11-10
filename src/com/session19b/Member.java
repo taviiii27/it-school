@@ -4,10 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Member {
-    private String name;
-    private String address;
-    private String contact;
-    private List<Book> borrowedBooks;
+    private final String name;
+    private final String address;
+    private final String contact;
+    private final List<Book> borrowedBooks;
 
     public Member(String name, String address, String contact) {
         this.name = name;
@@ -15,6 +15,7 @@ public class Member {
         this.contact = contact;
         this.borrowedBooks = new ArrayList<>();
     }
+
 
     public void borrowBook(Book book) {
         if (book.isAvailable()) {

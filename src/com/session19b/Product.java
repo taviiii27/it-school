@@ -1,9 +1,9 @@
 package com.session19b;
 
 public class Product {
-    private String name;
-    private String description;
-    private double price;
+    private final String name;
+    private final String description;
+    private final double price;
     private int quantity;
 
     public Product(String name, String description, double price, int quantity) {

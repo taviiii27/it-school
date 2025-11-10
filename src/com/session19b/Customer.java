@@ -4,12 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Customer {
-    private String name;
-    private String email;
-    private String shippingAddress;
-    private String billingAddress;
-    private List<Product> cart;
-    private List<Order> orders;
+    private final String name;
+    private final String email;
+    private final String shippingAddress;
+    private final String billingAddress;
+    private final List<Product> cart;
+    private final List<Order> orders;
 
     public Customer(String name, String email, String shippingAddress, String billingAddress) {
         this.name = name;

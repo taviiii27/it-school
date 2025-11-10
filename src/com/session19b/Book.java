@@ -1,18 +1,18 @@
 package com.session19b;
 
 public class Book {
-    private String title;
-    private Author author;
-    private String publisher;
-    private String ISBN;
+    private final String title;
+    private final Author author;
+    private final String publisher;
+    private final String ISBN;
+
     private int copies;
 
-    public Book(String title, Author author, String publisher, String ISBN, int copies) {
+    public Book(String title, Author author, String publisher, String ISBN) {
         this.title = title;
         this.author = author;
         this.publisher = publisher;
         this.ISBN = ISBN;
-        this.copies = copies;
     }
 
     public void addCopy() {
