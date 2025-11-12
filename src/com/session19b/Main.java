@@ -6,7 +6,7 @@ public class Main {
         Library library = new Library();
 
         Author author1 = new Author("JK Rowling", "British", "1976-07-31");
-        Book book1 = new Book("2000", author1, "Harry Potter", "183922", 3);
+        Book book1 = new Book("2000", author1, "Harry Potter", "183922");
         author1.addBook(book1);
         library.addBook(book1);
 
