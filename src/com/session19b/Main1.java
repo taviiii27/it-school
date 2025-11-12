@@ -17,7 +17,7 @@ public class Main1 {
             payment.processPayment();
             payment.displayPaymentInfo();
 
-            order.updateStatus("Shipped");
+            order.updateStatus(OrderStatus.SHIPPED);
             customer.trackOrderStatus(order);
         }
     }
