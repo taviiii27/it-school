@@ -12,4 +12,3 @@ public class Pair<A, B> {
     public A getFirst() { return first; }
     public B getSecond() { return second; }
 }
-

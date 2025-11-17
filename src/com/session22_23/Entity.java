@@ -23,4 +23,3 @@ public class Entity {
         return Integer.hashCode(id) ^ 0x123456;
     }
 }
-
