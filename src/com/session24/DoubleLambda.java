@@ -7,4 +7,5 @@ public class DoubleLambda {
         System.out.println(sqrt.apply(16));  // 4.0
         System.out.println(sqrt.apply(2));   // 1.414...
     }
+
 }

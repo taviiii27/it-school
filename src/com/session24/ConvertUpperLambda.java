@@ -14,5 +14,6 @@ public class ConvertUpperLambda {
         List<String> input = Arrays.asList("tavi", "maria", "alex");
         System.out.println(formatter.toUppercase(input));
     }
+
 }
 
