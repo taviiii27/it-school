@@ -12,4 +12,5 @@ public class SumOfNumbers {
 
         System.out.println("Sum = " + sum);
     }
+
 }

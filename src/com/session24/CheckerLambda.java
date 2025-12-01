@@ -14,5 +14,6 @@ public class CheckerLambda{
         System.out.println(containsString.contains(names, "Bobby"));
         System.out.println(containsString.contains(names, "David"));
     }
+
 }
 

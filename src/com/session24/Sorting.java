@@ -15,5 +15,6 @@ public class Sorting{
         words.sort((a, b) -> b.compareTo(a));
         System.out.println("Reverse alphabetical: " + words);
     }
+
 }
 

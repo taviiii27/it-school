@@ -9,4 +9,5 @@ public class FirstNLambda {
         System.out.println(trimmer.trim("HelloWorld", 5));
         System.out.println(trimmer.trim("Hi", 5));
     }
+
 }

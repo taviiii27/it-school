@@ -14,4 +14,5 @@ public class FilterOddLambda {
         List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7);
         System.out.println(oddFilter.filter(numbers));
     }
+
 }

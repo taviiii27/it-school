@@ -7,5 +7,6 @@ public class StringLambda {
 
         System.out.println(comp.compare("apple", "car"));
     }
+
 }
 

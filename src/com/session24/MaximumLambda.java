@@ -13,5 +13,6 @@ public class MaximumLambda {
         List<Integer> nums = Arrays.asList(3, 9, 2, 14, 7);
         System.out.println("Max = " + maxFinder.findMax(nums));
     }
+
 }
 

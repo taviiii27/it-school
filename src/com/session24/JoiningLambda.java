@@ -6,4 +6,5 @@ public class JoiningLambda {
 
         System.out.println(joiner.join("Hello", "World"));
     }
+
 }
